@@ -1,2 +1,3 @@
 # mod-programador
-Pequeno módulo que mostra uma frase aleatória sobre programação ou motivacional
+
+Pequeno módulo para o CMS Joomla que mostra uma frase aleatória sobre programação ou motivacional
