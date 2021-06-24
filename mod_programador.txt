@@ -1,0 +1,366 @@
+Linguagens não morrem mas sim seus programadores. Thales de Oliveira Gomes 
+Uma linguagem não faz seu código ser bom, programadores bons fazem. Samuel Custódio 
+Todos os seres humanos; todos os seres inteligentes, todos são deuses, programadores do seu próprio "Eu". Todos estes são profundos, porém nem todos possuem o hábito ou o preparo para olhar a sua totalidade. Júlio Pattuzzo 
+Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão. Rafael Lain 
+A arte de programar consiste em organizar e dominar a complexidade. Edsger W. Dijkstra
+Os primeiros 90% do código representam os primeiros 10% do tempo de desenvolvimento. Os 10% restantes do código é para mostrar aos outros os 90% do tempo de desenvolvimento. Tom Cargill
+Eu sempre quis que o meu computador fosse tão fácil de usar como o meu telefone, o meu desejo foi realizado pois eu já não consigo descobrir como usar o meu telefone. Bjarne Stroustrup
+Há duas formas de construir um projeto de software: Uma maneira de fazer isso deve ser tão simples que, obviamente, não deixem deficiências, e a outra forma é a de torná-lo tão complicado que não percebam as evidentes deficiências. O primeiro método é muito mais difícil. CAR Hoare 
+Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso. Bill Gates
+Nove pessoas não podem fazer um bebê em um mês. Fred Brooks
+Antes do software poder ser reutilizável ele primeiro tem de ser utilizável. Ralph Johnson
+Bons programadores sabem o que escrever. Os melhores sabem o que reescrever. Eric Raymond
+Mais do que de inteligência, o mundo precisa de sentimento. Charles Chaplin! 
+Eu chorava por não ter sapatos até que um dia encontrei um homem que não tinha pés. Desconhecido 
+Ama o teu trabalho, mesmo que ele seja humilde; pois é o tesouro da tua vida. Desiderata 
+O pessimista queixa-se do vento, o otimista espera que ele mude e o realista ajusta as velas. (Willian George Ward)
+A adversidade é um trampolim para a maturidade. (C.C. Colton) 
+Na adversidade conhecemos os recursos de que dispomos. (Horácio)
+A adversidade desperta em nós capacidades que, em circunstâncias favoráveis, teriam ficado adormecidas. (Horácio)
+Não podemos dirigir o vento... Mas podemos ajustar as velas. (Autor desconhecido) 
+Se a vida te deu um limão como destino transforma-o em uma limonada! (Desconhecido)
+À beira de um precipício só há uma maneira de andar para a frente: é dar um passo atrás.(M. de Montaigne)
+Jamais desesperes, mesmo perante as mais sombrias aflições de sua vida, pois das nuvens mais negras cai água límpida e fecunda. (Provérbio chinês)
+Se caíres sete vezes, levanta-te oito. (Provérbio chinês)
+Na casa de ferreiro que se preza o espeto é de aço inox. (Ditado popular adaptado por Ribamar FS)
+Um amigo é uma pessoa com a qual se pode pensar em voz alta. (Ralph Waldo Emerson)
+Ouve o conselho do teu coração. (Desconhecido)
+Se fizeres um favor, não o recordes; se receberes um favor, nunca o esqueças. (Autor desconhecido) 
+Se quer ser amado, ame. (Sêneca)
+A única maneira de ter um amigo é ser um. (Ralph Waldo Emerson) 
+A amizade duplica as alegrias e divide as tristezas. (Bacon) 
+Um irmão pode não ser um amigo, mas um amigo será sempre um irmão. (Demétrio)
+Ama e faça tudo que quizeres. (Santo Agostino) 
+O senhor não daria banho a um leproso nem por um milhão de dólares? Eu também não. Só por amor se pode dar banho a um leproso. (Madre Teresa de Calcuta)
+Aquele que conheceu apenas a sua mulher, e a amou, sabe mais de mulheres do que aquele que conheceu mil. (Leon Tolstoi)
+O casamento é um edifício que deve ser reconstruído todos os dias. (André Maurois) 
+Mesmo que eu possua o dom de profecia e conheça todos os mistérios e toda a ciência, e ainda tenha uma fé capaz de mover montanhas, se não tiver amor, nada serei. (1 Coríntios 13)
+Tornas-te eternamente responsável por aquele que cativas. (Saint - Exupéry) 
+Não somos amados por sermos bons. Somos bons porque somos amados. (Desmond Tutu)
+Os que acreditam que com dinheiro tudo se pode fazer, estão indubitavelmente dispostos a fazer tudo por dinheiro.(Beauchène) 
+O mais rico não é o que mais tem, mas o que necessita de menos.(Autor desconhecido)
+Metade dos nossos erros na vida nascem do fato de sentirmos quando devíamos pensar e pensarmos quando devíamos sentir. (J. Collins)
+Um homem nunca deve envergonhar-se por reconhecer que se enganou, pois isso equivale a dizer que hoje é mais sábio do que era ontem. (Jonathan Swift)
+O maior erro que um homem pode cometer é viver com medo de cometer um erro. (Hebbard)
+A vergonha de confessar o primeiro erro leva a cometer muitos outros. (Jean de la Fontaine)
+A confissão das más acções é o primeiro passo para a prática de boas acções. (Sto. Agostinho) 
+Um fracassado é um homem que cometeu um erro e não é capaz de o transformar em experiência. (E. Hubrard)
+O êxito consiste em aprender a ir de fracasso em fracasso sem cair no desespero. (Winston Churchill)
+Nada de desgosto nem de desânimo; se acabas de fracassar, recomeça. (Marco Aurélio) 
+Quem não evita as pequenas faltas, pouco a pouco cai nas grandes. (T. Kempis)
+Um homem que nunca muda de opinião, em vez de demonstrar a qualidade da sua opinião demonstra a pouca qualidade da sua mente. (Marcel Achard)
+Quem decide PODE errar, quem não decide JÁ errou. (Autor desconhecido)
+Ninguém é maior do que aquele que está disposto a que lhe assinalem os seus erros. (Dave Barry)
+Senhor, fazei que eu procure mais consolar do que ser consolado, compreender do que ser compreendido, amar do que ser amado.(S. Francisco de Assis)
+Não és menos feliz por te faltar do que serias se te sobejasse. (Josemaría Escrivá)
+A felicidade consiste em não seres feliz e que isso não te importe. (Miguel D'Ors)
+Todos os dias devíamos ouvir um pouco de música, ler uma boa poesia, ver um quadro bonito e, se possível, dizer algumas palavras sensatas. (Goethe)
+Se alguém não encontra a felicidade em si mesmo, é inútil que a procure noutro lugar. (La Rochefoucald) 
+A felicidade não é uma estação de chegada, mas um modo de viajar. (M. Ruberck)
+Navegar é preciso. Viver não é preciso. (Fernando Pessoa). Batalhar, estudar, trabalhar é preciso, viver apenas por viver não é preciso.
+O prazer é como certas substâncias medicinais: para obter constantemente os mesmos efeitos é preciso aumentar a dose; e a última provoca a morte ou o embrutecimento. (Autor desconhecido)
+Não somos felizes quando todos gostam de nós e nos ajudam, mas sim quando gostamos dos outros e os ajudamos. (Autor desconhecido) 
+Existem apenas duas maneiras de ver a vida. Uma é pensar que não existem milagres e a outra é que tudo é um milagre. (Albert Einstein)
+Procurando o bem para os nossos semelhantes encontramos o nosso. (Platão)
+A felicidade é um fruto que se colhe da felicidade que se semeia. (Autor desconhecido)
+A felicidade é um bem que se multiplica ao ser dividido  (Marxwell Maltz) 
+Se queres ser feliz amanhã, tenta hoje mesmo. (Liang Tzu)
+O coração que está em paz vê uma festa em todas as aldeias. (Provérbio hindu)
+Adormeci e sonhei que a vida era alegria. Acordei e vi que a vida era serviço. servi e vi que o serviço era alegria. (Tagore)
+O perfume sempre perdura na mão que oferece a rosa. (Halda Béjar)
+Sofremos demasiado pelo pouco que nos falta e alegramo-nos pouco pelo muito que temos...(W. Shakespeare)
+A estrada da tua felicidade não parte das pessoas e das coisas para chegar a ti; parte sempre de ti em direcção aos outros. (Michel Quoist)
+Não declares que as estrelas estão mortas só porque o céu está nublado. (Provérbio Árabe)
+Não importa o tamanho da montanha, ela não pode tapar o sol. (Provérbio chinês) 
+O mal que fazemos é sempre mais triste que o mal que nos fazem. (Jacinto Benavente)
+Um bom arrependimento é a melhor medicina para as enfermidades da alma. (Miguel de Cervantes)
+Perdoar nos alivia a alma. (Desconhecido)
+Há pessoas que choram por saberem que as rosas têm espinhos; outras há que sorriem por saberem que os espinhos têm rosas. (Autor desconhecido)
+Um livro é um mudo que fala, um surdo que responde, um cego que guia, um morto que vive. (Padre António Vieira)
+O primeiro dever da inteligência é desconfiar dela mesma. (Einstein)
+Não deixe nunca que te digam o que fazer da tua vida. (Desconhecido)
+Escuto e esqueço; vejo e recordo; faço e entendo. (Tao Te King)
+Quando não somos inteligíveis é porque não somos inteligentes. (Victor Hugo)
+Surpreender-se, admirar-se, é começar a entender. (José O. Gasset  -  Filósofo espanhol)
+Quando ensinares ensina também a duvidar daquilo que ensinas. (José Ortega y Gasset)
+É preciso subir a montanha como velho para chegar lá acima como jovem. (Provérbio chinês) 
+Qualquer simples problema se pode tornar insolúvel se for feito um número suficiente de reuniões para o discutir...(Arthur Bloch)
+Não existe verdadeira inteligência sem bondade. (Ludwig van Beethoven)
+O homem fraco teme a morte, o desgraçado chama-a; o valente procura-a. Só o sensato a espera. (Benjamin Franklin)
+É morrendo e aprendendo! (Disse Camões quando à beira da morte, ao faltar velas, usaram tições em brasa.)
+Para avaliar a importância real de uma pessoa, devemos pensar nos efeitos que sua morte produziria. (François Gaston de Levis) 
+Quando morremos, deixamos atrás de nós tudo o que possuímos e levamos tudo o que somos. (Autor desconhecido)
+Nada de monumento coberto de elogios. O meu epitáfio será o meu nome, nada mais. (Byron)
+O que é belo não morre: transforma-se em outra beleza. (Balley Ardrich)
+Não existe um caminho para a paz; a paz é o caminho. (Mahatma Gandhi) 
+O rio atinge os objetivos porque aprendeu a contornar os obstáculos. (André Luiz)
+A paz vem de dentro de ti próprio, não a procures à tua volta. (Buda) 
+O mundo não está ameaçado pelas más pessoas, mas sim por aqueles que permitem a maldade. (Albert Einstein)
+Discordo daquilo que dizes, mas defenderei até à morte o teu direito de o dizeres. (Voltaire)
+A cultura ajuda um povo a lutar com as palavras, em vez de o fazer com as armas. (Glugiermo Ferrero)
+Sou um homem pacífico; Deus sabe quanto amo a paz. Porém, espero jamais ser tão covarde que confunda opressão com paz. (Kossuth)
+Só é útil o conhecimento que nos torna melhores. (Sócrates) 
+Aquele que não duvida de nada não sabe nada. (Provérbio grego)
+Aquele que parece sábio entre os tolos parece tolo entre os sábios. (Marco Fabio)
+A sabedoria consiste em saber que se sabe o que sabe e saber que não se sabe o que não se sabe. (Provérbio chinês)
+Nunca encontrei uma pessoa da qual não tivesse nada a aprender. (A. de Vigny) 
+Não há nada de nobre em sermos superiores ao próximo. A verdadeira nobreza consiste em sermos superiores ao que éramos antes.(Autor desconhecido)
+Pensa como pensam os sábios, mas fala como falam as pessoas simples. (Aristóteles)
+É impossível para um homem aprender aquilo que ele acha que já sabe. (Epíteto)
+A simplicidade é o que há de mais difícil no mundo: é o último resultado da experiência, a derradeira força do génio. (G. Sand)
+Grande homem é aquele que não perdeu o coração de criança. (J. Wu)
+Uma biblioteca é uma universidade. (Carlyle)
+A internet contém a maior enciclopédia já vista, mas precisa saber ler. (Desconhecido)
+Não acrescente dias à sua vida, mas vida aos seus dias. (Harry Benjamin) 
+Se conheces o inimigo e te conheces a ti mesmo, não precisas de temer o resultado de cem batalhas. Se te conheces a ti mesmo, mas não conheces o inimigo, por cada vitória sofrerás também uma derrota. Se não te conheces a ti mesmo nem conheces o inimigo, perderás todas as batalhas. (Sun Tzu, A Arte da Guerra)
+Não basta conquistar a sabedoria, é preciso usá-la. (Cícero)
+O problema não é que os computadores passem a pensar como a gente, mas que a gente passe a pensar como eles. (Erich Fromm)
+O otimista inventou o avião. O pessimista o para-quedas. Há lugar para todos. (Desconhecido)
+A sabedoria é saber o que se deve fazer; a virtude é fazê-lo. (David Starr Jordan) 
+Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar. (Autor desconhecido)
+Se um coração é grande, nenhuma ingratidão o fecha, nenhuma indiferença o cansa. (Leon Tolstoi)
+Deves ter a cabeça sempre fria, o coração sempre quente e a mão larga. (Confúcio)
+É um tolo aquele que, verificando que uma rosa cheira melhor do que uma couve, conclui que fará também uma sopa melhor. (Autor desconhecido)
+O mundo exterior poderá fazer-te sofrer, mas só tu poderás avinagrar-te a ti mesmo. (Georges Bernanos) 
+O coração tem razões que a razão desconhece. (Pascal)
+Não existe o esquecimento total: as pegadas impressas na alma são indestrutíveis. (Thomas De Quincey)
+Qualquer um pode zangar-se, pois isso é muito simples. Mas zangar-se com a pessoa adequada, no grau exacto, no momento oportuno, com o propósito justo e de modo correto, isso não é tão fácil. (Aristóteles  -  Ética a Nicómaco)
+Os anos ensinam muitas coisas que os dias desconhecem. (Autor desconhecido) 
+Tornarmo-nos jovens leva muito tempo. (Pablo Picasso)
+Sonha como se vivesses para sempre; vive como se fosses morrer hoje. (James Dean)
+Transportai um punhado de terra todos os dias e fareis uma montanha. (Confúcio)
+Uma viagem de mil kilômetros começa com o primeiro passo.(Lao - Tsé) 
+Gutta cavat lapidem saepe cadendo.  -  A gota esburaca a pedra à força de cair. (Adágio latino)
+És tão novo!  -  Pareces-me um barco que empreende viagem.  -  Esse ligeiro desvio de agora, se não o corrigires, fará com que no fim não chegues ao porto. (Josemaría Escrivá)
+Somos mais pais do nosso futuro do que filhos do nosso passado. (Miguel de Unamuno)
+Dizem sempre que o tempo muda as coisas, mas na realidade somos nós próprios quem temos de as mudar. (Andy Warthol) 
+É verdadeiramente velho o homem que pára de aprender, quer tenha 20 ou 80 anos. (Henry Ford)
+Não importa o que o passado fez de mim. Importa é o que farei com o que o passado fez de mim. (autor desconhecido)
+O homem feliz é aquele que não tem tempo para pensar nas suas coisas. (Gary Cooper)
+Porta-te bem \agora\ sem te lembrares do \ontem\, que já passou, e sem te preocupares com o \amanhã\, que não sabes se chegará para ti. (Josemaría Escrivá)
+O homem começa a envelhecer quando as lamentações começam a tomar o lugar dos sonhos. (John Barrymore) 
+Os velhos acreditam em tudo; os adultos suspeitam de tudo; os jovens sabem tudo. (Oscar Wilde)
+Não há necessidade de escolher uma estação do ano predileta. O que temos de fazer é desfrutar da beleza de cada uma delas. (Evelyn Lauder)
+Se eu soubesse que ia durar tanto tempo, tinha tido mais cuidado comigo. (George Burns, actor de comédia)
+Segredo para uma vida longa: pouca cama, pouco prato, muita sola de sapato. (Autor desconhecido)
+Paremos de indagar o que o futuro nos reserva e recebamos como um presente o que quer que nos traga o dia de hoje. (Heráclito) 
+Uma hora de vida também é vida. (Ditado polaco/judeu)
+Considero a televisão uma coisa muito educativa, porque cada vez que alguém a liga na sala vou para o meu quarto ler um livro...(Autor desconhecido)
+O homem tem três amigos: o dinheiro, só até à morte; os parentes, até à sepultura; as boas obras para sempre.(Autor desconhecido)
+Descansar do dever faz parte do dever. (Autor desconhecido)
+A verdadeira função do homem é viver, não existir. Eu não gastarei os meus dias a tentar prolongá-los. Usarei o meu tempo. (Jack London) 
+Qualquer um pode carregar seu fardo, embora pesado, até anoitecer. Qualquer um pode fazer seu trabalho, embora árduo, por um dia. Qualquer um pode viver mansamente, pacientemente, amistosamente, até que o Sol se ponha. E isso é o que realmente a vida requer. (Stevenson, escritor britânico)
+Não julgues nada pela pequenez dos começos. Uma vez fizeram-me notar que não se distinguem pelo tamanho as sementes que darão ervas anuais das que vão produzir árvores centenárias. (Josemaría Escrivá)
+O passado fugiu, o que esperas está ausente, mas o presente é teu. (Provérbio árabe)
+A melhor maneira de prever o futuro é inventá-lo. (Autor desconhecido)
+A maior recompensa do nosso trabalho não é o que nos pagam por ele, mas aquilo em que ele nos transforma. (John Ruskin)
+Ensina cedo aos teus filhos que o pão dos homens é feito para ser dividido. (P. Carré)
+Deixar tudo para amanhã é como usar um cartão de crédito: muito divertido... até que chegue o momento de receber a conta. (Christopher Parker)
+Os preguiçosos estão sempre a falar do que tencionam fazer, do que hão-de realizar; aqueles que verdadeiramente fazem alguma coisa não têm tempo de falar nem sequer do que fazem. (Goethe)
+Não queiras ser como aquele catavento dourado do grande edificio; por muito que brilhe e por mais alto que esteja, não conta para a solidez da obra.  -  Oxalá sejas sempre como um velho silhar oculto nos alicerces, debaixo da terra, onde ninguém te veja; por ti não desabará a casa. (Josemaría Escrivá)
+O gênio começa as obras grandes, mas é o trabalho que as termina. (J. Joubert)
+A prática é um professor excepcional. (Plínio, o Jovem, escritor romano)
+Creio muito na sorte. Quanto mais trabalho, mais sorte pareço ter. (Emerson)
+O verdadeiro mérito é como os rios: quanto mais profundo, menos ruído faz. (Halifax)
+Quem não cultiva o hábito do trabalho contrai o vício da preguiça. (Autor desconhecido)
+Se não podes ter o trabalho de que gostas, gostas do que tens. (Desconhecido)
+Se não posso realizar grandes coisas, posso pelo menos fazer pequenas coisas com grandeza. (Clarck)
+Viste como ergueram aquele edifício de grandeza imponente?  -  Um tijolo, e outro. Milhares. Mas um a um.  -  E sacos de cimento, um a um. E blocos de pedra, que pouco representam na mole do conjunto.  -  E pedaços de ferro.  -  E operários que trabalham, dia a dia, as mesmas horas. Viste como levantaram aquele edifício de grandeza imponente?... À força de pequenas coisas! (Josemaría Escrivá)
+Se quiseres que uma coisa se faça, encarrega-a a uma pessoa ocupada. (Provérbio chinês)
+Se precisas de um favor, procuras uma pessoa bem ocupada, pois as desocupadas nunca têm tempo para nada. (Desconhecido)
+Estuda! Não para saber muitas coisas, mas para sabê-las bem. (Séneca)
+Aquele que pensa que é demasiado grande para fazer trabalhos pequenos é talvez demasiado pequeno para fazer trabalhos grandes. (Autor desconhecido)
+O maior cientista vivo (na época) \(Stephen Hawkins\) move apenas com um dedo. (Desconhecido)
+O único lugar onde o sucesso vem antes do trabalho é no dicionário. (Einstein)
+Assim como uma gota de veneno compromete um balde inteiro, também a mentira, por menor que seja, pode estragar toda a nossa vida. (Gandhi)
+A tua única obrigação durante toda a tua existência é seres verdadeiro para contigo próprio. (Richard Bach)
+Cada vez que mentes para evitar um esforço, a manta sob a qual te escondes torna-se um pouco maior, até que acabes por te afogares debaixo dela. (Rafik Schami)
+Os fatos não deixam de existir só por serem ignorados. (J. Sádaba)
+Aquele que procura a verdade corre o risco de a encontrar. (Manuel Vicent)
+Prefiro incomodar com a verdade do que agradar com adulações. (Lúcio Anneo Séneca)
+Uma mentira, ainda que a digam milhares de bocas e milhares de vezes, não deixa de ser uma mentira. (Autor desconhecido)
+O homem está sempre disposto a negar aquilo que não compreende. (Luigi Pirandello)
+Se tiveres a coragem de olhar o mal cara a cara, de o veres como realmente é e de lhe dares o seu verdadeiro nome, ele não terá poder sobre ti e poderás destrui-lo. (Lloyd Alexande)
+Uma garrafa de vinho meio vazia também está meio cheia; mas uma meia mentira nunca será uma meia verdade. (Jean Cocteau)
+Nada me inspira mais veneração e assombro que um ancião que sabe mudar de opinião. (Santiago Ramón y Cajal)
+A verdade alivia mais do que magoa. E estará sempre acima de qualquer falsidade como o óleo sobre a água. (Miguel de Cervantes)
+A repetição não transforma uma mentira numa verdade. (Roosevelt)
+Diz a verdade, mesmo que ela esteja contra ti. (Alcorão)
+Crê nos que buscam a verdade. Duvida dos que a encontraram. (André Gide)
+A verdade não está do lado de quem mais grita. (Tagore)
+Existem três tipos de mentiras: mentiras, mentiras sujas, e estatísticas. (Benjamin Disraeli)
+Um homem terá pelo menos dado a partida para a descoberta do sentido da vida humana quando começar a plantar árvores frondosas sob as quais sabe muito bem que jamais se sentará. (D. Elton Trueblood)
+Cada criança, ao nascer, traz - nos a mensagem de que Deus ainda não perdeu a esperança no homem. (Tagore)
+O que dá sentido à vida é mais importante que a própria vida. (Autor desconhecido)
+Todas as flores do futuro estão nas sementes de hoje. (Provérbio Chinês)
+Só uma vida dedicada aos outros merece ser vivida. (Einstein)
+Como seria satisfatório viver sem remorsos, poder a cada instante enfrentar a própria mente e trazer à memória o bem que se fez aos semelhantes, não achando na própria conduta senão objetos agradáveis e plausíveis. (Paul Henri Dietrich HOLBAHC, filósofo francês)
+O segredo da vida não é fazer o que se gosta, mas sim gostar do que se faz. (Desconhecido)
+Uma alegria compartilhada se transforma em dupla alegria; uma pena compartilhada, em meia pena. (Provérbio sueco)
+Give a man a fish and he will eat for a day. Teach a man to fish and he will eat for a lifetime. (Confucius)
+Viver não é necessário; o que é necessário é criar. Não conto gozar a minha vida; nem em gozá-la penso. Só quero torná-la grande, ainda que para isso tenha de ser o meu corpo e a (minha alma) a lenha desse fogo. (Fernando Pessoa)
+As aspas simples em PHP são utilizadas para indicar uma 'string literal'. Strings literais não processam caracteres especiais ou variáveis.
+Em PHP se estiver usando aspas simples, você pode digitar um nome de variável em uma string assim: 'Alguma $coisa' e você verá a saída exata: Alguma $coisa. Se você estiver usando aspas duplas, o motor da linguagem trocará a variável "$coisa" pelo seu valor e então exibirá 'Alguma casa', caso $coisa contenha casa.
+Aspas duplas são o canivete suíço das strings. Mas são mais lentas devido a interpretação das strings. O PHP não só irá analisar as variáveis como mencionado acima mas também todos os tipos de caracteres especiais, como \n para nova linha, \t para identação, etc.
+Aspas duplas que contém variáveis; Isto é chamado "interpolação". Quando usando interpolação, são comuns os casos onde a variável pode estar colada com outro caracter. Isso fará com que o PHP não consiga interpretar essa variável pelo fato dela estar sendo camuflada. Para corrigir esse problema envolva a variável em um par de chaves.
+Independentemente do que você está fazendo com strings (aspas simples ou duplas), nenhum dos tipos vai ter qualquer impacto perceptível sobre a performance da sua aplicação.
+1994 - Rasmus Lerdorf está rapidamente codificando um conjunto de ferramentas C. Este conjunto de ferramentas é usado para gerenciar seu site pessoal. Rasmus está fazendo isso apenas para suas próprias necessidades no momento. Ele não quer transformá-lo em uma linguagem de programação. Nada neste conjunto de ferramentas foi projetado para se tornar uma.
+Em 1995-06-08 Rasmus lançou o kit de ferramentas de código aberto chamado então: PHP / FI.
+Em 1998 Andi e Zeev entram no time do PHP para reescrever a base do PHP como uma linguagem completa de programação e vários desenvolvedores passam a colaborar com o desenvolvimento do PHP.
+Em 2003 a versão 3 é totalmente abandonada e o PHP 4 foi desenvolvido com recursos de OO. O que atraiu milhares de desenvolvedores para a linguagem. 
+Em 2014 aparece o PHP 5, a acensão do PHP com a versão 2 do zend engine, agora totalmente orientado a objetos, banco de dados com PDO, jSON nativo, namespaces, interfaces, traits e diversos outros recursos que solidificaram o PHP.
+Em 2015 aparece o PHP 7 com performance surpreendente e fortificação em recursos de OO, o PHP é visto como uma linguagem madura presente em mais de 83.5% dos sites na internet sendo a mais utilizada linguagem de programação do mundo.
+Em 2016 publicação Oficial do PHP-FIG, PHP Standard Recommendation, PHP do jeito certo
+Em 2017 aconteceu a Popularização das PSRs e a consequente ascensão do PHP
+Git, Github, composer, Packagist ajudam muito o PHP
+A popularização de frameworks (Laravel, CakePHP, CodeIgniter, Symfony, ...) e CMS (Wordpress, Joomla, Drupal, ...)
+Cada classe deve estar em seu próprio arquivo e ter pelo menos um nível de namespace (padrão PSR-4). O nome da classe deve ser declarada em StudlyCaps.
+Constantes da classe devem ser declaradas em tudo em maiúscula (UNDER) e quando preciso podem ser separadas por UNDER_SCORE.
+Propriedades da classe podem ser escritas em $StudlyCaps, $camelCase ou $under_score, não existe uma recomendação rígida para elas, mas é sempre importante escolher uma e usar sempre a mesma. Se for $camelCase, use sempre $camelCase e nunca as outras.
+Métodos da classe devem ser declarados sempre em camelCase()
+PSR-1: Arquivos: Sempre devem terminar com uma linha em branco (Unix linefeed).
+Arquivos contendo somente PHP: Um arquivo somente com PHP deve omitir a tag ?> de fechamento.
+Linhas: Procure manter suas linhas com no máximo 80 caracteres, quando necessário você poderá usar até 120.
+Espaços finais: Certifique-se que o último caractere da linha não é um espaço em branco.
+Legibilidade: Pode adicionar linhas em branco para separar blocos de código.
+Recuo: Use 4 espaços para indentar seu código, nunca o TAB.
+Declaração: Não deve ter mais de uma por linha de código.
+true, false, null: São palavras-chave e constantes do PHP, devem ser escritas sempre com letras minúsculas.
+Namespaces: Devem usar a primeira linha útil do arquivo. Após declarar um, sempre deixe uma linha em branco para então continuar seu código.
+use: Quando presentes devem ser declarados após os namespaces. DEVE haver um use por declaração. DEVE haver um espaço após o bloco de declaração do use.
+extends e implements devem SEMPRE ser declarados na mesma linha do nome da classe, se ambos, primeiro o extends.
+A chave de abertura da classe deve seguir na próxima linha após o nome e a chave de fechamento deve seguir na próxima linha após o corpo da classe.
+Propriedades devem sempre declarar a visibilidade (public, protected, private) e nunca mais deve usar em sua declaração a palavra-chave var.
+Não deve haver mais de uma propriedade declarada por linha. Nunca use sublinhado/underscore no início ou no final do nome da propriedade para declarar visibilidade protegida ou privada.
+Métodos assim como propriedades devem ter sua visibilidade declarada e não usar sublinhado/underscore no início ou no final do nome.
+Nomes de métodos não podem conter espaços nele ou após ele. A chave de abertura deve estar na sua própria linha, a de fechamento na próxima linha após o corpo e devem ser declarados com $camelCase().
+Argumentos do método: Na lista de argumentos deve haver um espaço depois da vírgula mas não antes, argumentos com valores padrão devem ir ao final da lista.
+A lista de argumentos também podem ser declaradas na próxima linha. Quando isso ocorrer cada argumento assim como os parênteses devem estar em uma linha subsequente e você deve adicionar um recuo para todos.
+abstract e final quando presentes, devem ser declaradas ANTES da declaração de visibilidade.
+Quando presente, a static deve ser declarada DEPOIS da declaração de visibilidade.
+chamada de métodos e funções: Chamadas de métodos e funções não use espaços entre o nome declarado e os parênteses de abertura e fechamento.
+Na lista de argumentos deve haver um espaço depois da vírgula mas não antes.
+A lista de argumentos também pode ser dividida em várias linhas.
+NÃO DEVE haver um espaço após o parêntese de abertura nem antes do parêntese de fechamento.
+Um nome de classe totalmente qualificado deve seguir o seguinte formato: \<VendorNamespace>(\<SubNamespace>)*\<ClassName>
+O namespace completo DEVE ter um nome de nível superior (Vendor).
+O Vendor namespace e alguns dos primeiros níveis de sub-namespace DEVEM corresponder a um diretório base.
+Cada sub-namespace seguinte deve corresponder a um sub-diretório dentro do diretório base, cada separador de sub-namespace corresponde a um separador de diretório no sistema operacional.
+Recomenda-se que bancos de dados usuem character set utf8mb4
+VSCode extenão: phpfmt – PHP formatter. Selecionar todo o código a formatar, Teclar F1, Selecionar: Format Document
+Nomes de arquivos - tudo no singular e nomes compostos separados por sublinhado
+Para projetos importantes evite a criação com apenas PHP nativo, prefira usar um bom framework, para um maior suporte, profissionalismo e segurança
+Use um controle de versão, como o Git para seus projetos
+Use o composer para instalação e controle de dependências
+Use notação do PHPDoc na documentação do seu código
+Em ambiente desktop ligue a exibição de erros no php.ini, com display_error = On e Error Reporting = E_All e nuncna ocultar erros com @. Erros devem ser tratados e não escondidos
+Fique atento para o DRY e o KISS
+Sempre indente seu código e use 4 espaços em branco  para a indentação e uma linha em branco para separar blocos e o deixando mais legível
+Seja organizado com seu código
+Utilize os operadores === e !== para forçar o tipo também
+Cuidado, não use = em if: if($x = 3), que sempre será verdadeiro
+Use somente as tags: <?php e ?> e <?= ... ?>
+Use uma convenção coerente para nomes de arquivos, classes, métodos, propriedades, constantes, etc. Use nomes consistentes e lógicos para variáveis, funções, métodos e classes. Evite nomes de variáveis com nomes muito pequenos: $a, $ab, etc
+Melhor é quando seu código é tão simples e claro que não precisa de comentário.
+Sempre que possível use aspas simples ao invés de duplas. Mais leves e mais seguro
+Não armazene senhas em bancos de dados, mas somente o hash
+Tenha bastante cuidado ao projetar seu banco de dados: tabelas, relacionamentos, tipos de dados dos campos, constraints, etc.
+Use um sistema de cache com o PHP
+Instale o Xdebug em seu php e habilite no seu editor/IDE
+Use um editor com suporte a UTF8
+Evite a criação de código complexo, como criação de funções dentro de loops
+Evite criar variáveis desnecessárias. Ex: $description = strip_tags($_POST['description']); echo $description;. Prefira: echo strip_tags($_POST['description']);
+Sempre reutilize código. Conheça o código e também use bibliotecas de terceiros para o assunto e reutilize sempre que puder, para evitar trabalho desnecessário
+Use sempre a versão mais recente do php que puder
+Reduza ao máximo a quantidade de consultas ao banco, que são muito onerosas
+Não use consultas ao banco dentro de laços
+Quanto melhor o desempenho do site/aplicativo, mais satisfeito ficam os usuários. Segundo pesquisas eles esperam que os sites carreguem em 2 segundos ou menos, sendo que eles abandonariam páginas que levassem mais de 3 segundos para carregar. E ainda: 79% dos clientes que tiveram problemas com o desempenho de um site não voltariam a fazer negócio. E 44% deles contariam aos amigos sobre a má experiência. Velocidade de carregamento é fundamental em qualquer site. E é o critério que mais pesa nas avaliações feitas por usuários. Afinal, ninguém poderá avaliar o design do site ou seu conteúdo antes dele carregar completamente. Muitas vezes, alguns desenvolvedores perdem alguns segundos de carregamento em prol de um efeito visual. https://www.turbosite.com.br/blog/30-melhores-praticas-em-php-para-iniciantes
+No SELECT use apenas exataente os campos que vai precisar usar e nunca use *.
+Use bastante a cláusula limit em consultas.
+Faça cache das consultas usando Memcached ou APCu
+Ao invés de sub-consultas use joins
+Use union ao invés de OR em consultas
+Utilize índices na criação das tabelas, mas sem exagerar
+Um servidor de buscas como o ElasticSearch pode trazer um de sempenho de até 278 vezes maior.
+Geralmente quanto mais ações forem executadas no backend maior a performance
+Teste, teste novamente e quando achar que está tudo ok, teste de novo. Use o PHPUnit para testar o código de forma profissional
+No CSS nomes de classes compostos devem ser separados por hífen: minha-classe
+Use SSH ou Git para envio do código para o seridor
+Use o Vagrant para ter localmente um servidor idêntico ao servidor em produção de forma otimizada
+Uso de migrations torna o código mais profissional e portável entre SGBDs
+Use o servidor web embutido do PHP: php -S localhost:8000
+Se você usar referência a classes, interfaces, métodos ou constantes sem um namespace o PHP assumirá que as classes, interfaces, métodos ou constantes vivem no namespace atual
+O que é um PSR? PSR é um acrónimo para recomendação de padrões PHP. PSR-1, PSR-2, PSR-3 e assim por diante são recomendações PHP-FIG. Os seus nomes começam com PSR- e terminam com um número. Cada recomendação PHP-FIG resolve um problema específico que é frequentemente encontrado pela maioria das estruturas PHP. Em vez de estruturas de PHP, a mesma estrutura é continuamente re-solucionada problemas, as estruturas podem, em vez disso, adoptar as recomendações do PHP-FIG e desenvolver
+soluções partilhadas.
+O PHP moderno é menos sobre estruturas monolíticas e mais sobre a composição de soluções a partir de componentes especializados e interoperáveis.
+Os componentes modernos do PHP são um novo conceito para muitos programadores de PHP.
+O que são componentes? Um componente é um pacote de código que ajuda a resolver um problema específico no seu PHP aplicação. Por exemplo, se a sua aplicação PHP enviar e receber pedidos HTTP, há um componente para fazer isso. Se a sua aplicação PHP analisa os dados delimitados por vírgulas, há um componente PHP para fazer isso. Se a sua aplicação PHP precisa de uma forma de registar mensagens, há um componente para isso. Em vez de reconstruir a funcionalidade já resolvida, utilizamos
+Componentes PHP e gastar mais tempo a resolver os objetivos maiores do nosso projeto.
+Cooperativa. Um componente PHP joga bem com os outros. Afinal de contas, este é o objectivo dos componentes PHP - a sua existência depende da sua cooperação com outros componentes para construir maiores soluções. Um componente PHP não polui o espaço de nomes global com o seu próprio código. Em vez disso, um componente PHP vive sob o seu próprio espaço de nomes para evitar colisões de nomes com outros componentes.
+Bem testado. Um componente PHP é bem testado. Isto é fácil de realizar graças ao seu pequeno tamanho. Se um componente PHP é pequeno e focado no laser, é muito provavelmente facilmente testado. As suas preocupações são poucas, e as suas dependências podem ser facilmente identificadas e ridicularizadas. O melhor PHP
+Os componentes fornecem os seus próprios testes e têm cobertura de teste suficiente.
+É bem documentado. Deve ter um bom README e as suas classes, métodos, e propriedades devem ter blocos de documentos em linha que descrever o código, os seus parâmetros, os seus valores de retorno, e as suas potenciais excepções.
+Quando não tiver acesso aos arquivos do servidor, usar nos arquivos PHP: ini_set(), ini_set('error_reporting', E_ALL); ini_set('display_errors', 1);
+Para método de formulários evitar o uso de GET. Prefira o POST
+Usar sempre na primeira linha de código, para forçar a declaração explícita de tipos: declare(strict_types=0); //default, checagem fraca. declare(strict_types=1); // estrita checagem de tipos
+Nunca escrever um crud em um único arquivo
+Sempre que possível use herança, assim divide suas classes em classes menores e reaproveita o código
+Usar namespace com PSR-4, composer e autoload
+Em aplicativos usando MVC separe os arquivos do aplicativo numa pasta e os do core em outra
+A melhor prática que conheço é que práticas são para nos ajudar e não para ficarmos engessados nelas
+Tudo isso são apenas boas práticas e convenções, nada é obrigado, mas em seguindo teremos um software mais legível, manutenível, com maior performance, segurança e com compatibilidade com os grandes frameworks.
+Uma boa indentação facilita a organização e a leitura do código. O recomendado, e também adotado por muitos, é uma indentação de quatro espaços. Dê atenção especial às estruturas de controle, onde o "aninhamento" delas podem causar confusão de leitura.
+Ao desenvolvermos um sistema ou site, deparamo-nos com o uso de diversos tipos de variáveis, como strings, arrays, booleans, dentre outros. Como o PHP não suporta a definição de tipos de variáveis nas declarações das mesmas, em determinados momentos, uma variável que deveria conter como valor um número inteiro, pode receber uma string. Isso pode gerar erros sileciosos, comprometendo o funcionamento do código.
+Criar um bom software é difícil. Envolve levar em consideração todos os aspectos do aplicativo que você precisa para construir, e é ainda mais complicado pela necessidade de ser específico o suficiente para suas necessidades atuais para obter o trabalho feito, enquanto sendo genérico o suficiente para resolver problemas futuros. Muitos desenvolvedores experientes tiveram esses problemas e, ao longo do tempo, surgiram padrões comuns que ajudam a resolvê-los.
+Os frameworks abstraem muitas das preocupações de baixo nível e fornecem interfaces úteis e fáceis de utilizar para completar tarefas comuns.
+Você não precisa usar um framework para todo projeto. Algumas vezes, PHP puro é a maneira certa de fazer, mas se você realmente precisar de um framework existem três tipos disponíveis: Micro Frameworks, Full-Stack Frameworks e Component Frameworks
+A Sintaxe Heredoc se comporta internamente da mesma forma que as aspas duplas exceto que é adequada para o uso de strings de múltiplas linhas sem a necessidade de concatenação.
+A Sintaxe Nowdoc foi introduzida no PHP 5.3 e internamente se comporta da mesma forma que as aspas simples exceto que é adequada para o uso de strings de múltiplas linhas sem a necessidade de concatenação.
+O uso de operadores ternários é uma ótima forma de condensar seu código, mas eles são geralmente usados em excesso. Apesar de operações ternárias poderem ser agrupadas e aconselhado usar uma por linha para aumentar a legibilidade.
+Um problema com regras e diretrizes na programação é que elas geralmente só servem a um propósito em um contexto específico. Saindo desse contexto, uma boa regra pode se tornar uma regra horrível. De fato, toda boa regra se torna ruim quando levada ao extremo.
+O princípio KISS, que é um acrônimo para “Keep It Simple, Stupid”, é um bom e extremamente sábio princípio que geralmente é visto por pessoas experientes como um conselho muito bom a seguir, mas mesmo este grande princípio torna-se um perigo para um projeto, se levado ao extremo. Existe tal coisa como “muito simples” resultando em falta de funcionalidade necessária.
+Não somos obrigados a sempre usar padrões de projetos em nosso código. É importante usar quando eles no trará vantagens e evitar quando eles nos trouxer grande complexidade.
+Também não somos geralmente obrigados a usar orientação a objetos em nossos softwares. Crie seu código antes verificando a vocação de cada um.
+Siga o PHP-FIG mas com critérios, de forma a collher algo de útil para você e sua empresa. Não para fazer tudo que o grupo criou sem nenhuma reflexão ou crítica.
+Segurança: use hash de senhas, filtre dados de formulários no front e no backend. filter_var() e filter_imput() são ótimas e validação de tipos, tamanhos, formatos, etc.
+Os templates fornecem uma forma conveniente de separar seu controlador e a camada apresentação.
+Escrever testes automatizados para o seu código PHP é considerado uma boa prática, e leva a aplicações bem escritas e estáveis. Testes automatizados são uma excelente ferramenta para garantir que sua aplicação não irá quebrar quando você estiver fazendo alterações ou adicionando novas funcionalidades, e não deveriam ser ignorados.
+Existem vários tipos diferentes de ferramentas de testes (ou frameworks) disponíveis para PHP, com diferentes abordagens: todas elas tentam evitar os testes manuais e a necessidade de equipes grandes de Garantia de Qualidade Quality Assurance, ou QA) apenas para garantir que alterações recentes não interrompam funcionalidade existentes.
+Class são modelos de onde se derivam os objetos. Como uma planta de cada através da qual se constroi casas.
+Objetos são criados a partir das classes. Não se usa classes na programação, usamos objetos.
+Propriedades são como as variáveis na linguagem estruturada
+Métodos são similares as funções da estruturada
+Visibilidade de propriedades e métodos. private - visível somente dentro da classe que a criou e define. public - visível em qualquer objeto que o use. protected - visível somente na classe que o criou ou nas classes que a estendem
+Importante em termos de segurança das informações: Use somente propriedades e métodos private. Caso não consiga atentder, então use protected. Em último caso use public
+Method Overriding: É quando criamos numa classe filha um método com o mesmo nome de um método da classe pai, o mesmo nome, assinatura e especificador de acesso (public ou protected) da classe derivada. A razão de fazer isso é para prover funcionalidades adicionais sobre as definidas na classe base/pai.
+Traits em PHP são uma forma de reutilizar código e de suprir a falta de herança múltipla até a versão 5.4 do PHP. Eles permitem a reutilização horizontal de código através de classes independentes.
+Herança - Para herdar de uma classe usamos a palavra reservada extends. A classe base é chamada de classe pai. A classe que herda, a que usa a palavra extends é chamada de filha. Assim fazendo a classe filha herdar tudo que a classe pai tem, exceto o que for private.
+O objetivo principal do namespace é o de permitir que tenhamos duas ou mais classes com o mesmo nome sem conflito. Cada uma em seu namespace, como se fossem dois arquivos com o mesmo nome mas em diretórios diferentes.
+Algo só é impossível até que alguém duvide e resolva provar o contrário. Albert Einstein
+Uma pessoa inteligente resolve um problema, um sábio previne. Albert Einstein
+Você erra todo arremesso que não tenta. Michal Jordan
+Talento ganha jogos, mas trabalho sério e inteligência ganha campeonato. Michael Jordan
+Algumas pessoas querem que algo aconteça, outras desejam que aconteça, outras fazem acontecer. Michael Jordan
+Só existe uma maneira de evitar críticas: não fazer nada, não dizer nada e não ser nada. Aristóteles
+Nas adversidades, uns desistem, enquanto outros batem recordes. Ayrton Senna
+Escolhe um trabalho de que você goste e não terá que trabalhar nem um dia na sua vida. Confúcio. Mas se não encontrar um de que você goste, empenhe-se no que você tem no momento e fique atento para encontrar um de que gosta. Ribamar FS
+Fazer as coisas que você acha certas é mais importante do que fazer bem feitas as coisas. Peter Drucker
+Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar onde a maioria não chega, faça o que a maioria não faz. Bill Gates
+Dizem que a vida é para quem sabe viver, mas ninguém nasce pronto. Então estude muito e seja corajoso para correr riscos. Adaptação de Clarice Lispector
+Seja muito bom, que eles não vão ter como ignorar você. Steve Martin
+Creio muito na sorte. Quanto mais estudo e trabalho, mais sorte pareço ter. Coleman Cox
+A grande glória da vida não está em nunca cair, mas em se levantar a cada vez que cair. Nelson Mandela 
+Não sei qual é o segredo do sucesso, mas o segredo do fracasso é tentar agradar a todo mundo. Bill Cosby
+Você não precisa estar um passo à frente dos outros, desde que cada dada dia esteja à frente de você mesmo ontem. Anônimo
+Sorte é o que acontece quando a preparação encontra a oportunidade.
+A lógica pode levar de um ponto A a um ponto B. A imaginação pode levar a qualquer lugar. Albert Einstein
+Habilidade é o que você é capaz de fazer. Motivação determina o que você faz. Atitude determina o quão bem você faz. (Lou Holtz)
+Quem não evita as pequenas faltas, pouco a pouco cai nas grandes. (T. Kempis)
+Não se preocupe com falhas, preocupe-se com as chances que você perde quando não tenta. (Jack Canfield)
+Diante de uma dificuldade substitua o eu não consigo pelo vou tentar outra vez.
+Você nunca sabe que resultados virão da sua ação. Mas se você não fizer nada, não existirão resultados. (Mahatma Gandhi)
+Sonha como se vivesses para sempre; vive como se fosses morrer hoje. (James Dean) 
+Quando você quer realmente alguma coisa, todo o universo conspira para que você realize o seu desejo.
+Importante: Podemos levar um minuto para aprender algo, mas muitos anos ou a vida inteira para dominar.
+Uma linguagem não faz seu código ser bom, programadores bons fazem. Samuel Custódio 
+

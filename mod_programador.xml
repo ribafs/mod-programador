@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.2" client="site" method="upgrade">
+	<name>mod_programador</name>
+	<author>Ribamar FS</author>
+	<creationDate>Abril de 2021</creationDate>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>ribamar@tutamail.com</authorEmail>
+	<authorUrl>https://ribafs.me</authorUrl>
+	<version>1.0</version>
+	<description>Este módulo exibe um pensamento aleatório sobre programador de um arquivo texto.
+		Foi adaptado do módulo vivi_code do Serra Antonio (tonio@vivigrosseto.it) - http://www.vivigrosseto.it/ 
+	</description>
+	<files>
+		<filename module="mod_programador">mod_programador.php</filename>
+		<filename>mod_programador.txt</filename>
+		<filename>Programadores.pdf</filename>				
+	</files>
+</extension>
