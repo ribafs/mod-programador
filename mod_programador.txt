@@ -299,7 +299,6 @@ Componentes PHP e gastar mais tempo a resolver os objetivos maiores do nosso pro
 Cooperativa. Um componente PHP joga bem com os outros. Afinal de contas, este é o objectivo dos componentes PHP - a sua existência depende da sua cooperação com outros componentes para construir maiores soluções. Um componente PHP não polui o espaço de nomes global com o seu próprio código. Em vez disso, um componente PHP vive sob o seu próprio espaço de nomes para evitar colisões de nomes com outros componentes.
 Bem testado. Um componente PHP é bem testado. Isto é fácil de realizar graças ao seu pequeno tamanho. Se um componente PHP é pequeno e focado no laser, é muito provavelmente facilmente testado. As suas preocupações são poucas, e as suas dependências podem ser facilmente identificadas e ridicularizadas. O melhor PHP
 Os componentes fornecem os seus próprios testes e têm cobertura de teste suficiente.
-É bem documentado. Deve ter um bom README e as suas classes, métodos, e propriedades devem ter blocos de documentos em linha que descrever o código, os seus parâmetros, os seus valores de retorno, e as suas potenciais excepções.
 Quando não tiver acesso aos arquivos do servidor, usar nos arquivos PHP: ini_set(), ini_set('error_reporting', E_ALL); ini_set('display_errors', 1);
 Para método de formulários evitar o uso de GET. Prefira o POST
 Usar sempre na primeira linha de código, para forçar a declaração explícita de tipos: declare(strict_types=0); //default, checagem fraca. declare(strict_types=1); // estrita checagem de tipos
