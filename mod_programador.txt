@@ -1,3 +1,4 @@
+Debugar é duas vezes mais difícil do que escrever código. Se você escrever código lembrando que debugar dá mais trabalho ira escrever de um jeito que não precisa debugar.  
 Linguagens não morrem mas sim seus programadores. Thales de Oliveira Gomes 
 Uma linguagem não faz seu código ser bom, programadores bons fazem. Samuel Custódio 
 Todos os seres humanos; todos os seres inteligentes, todos são deuses, programadores do seu próprio "Eu". Todos estes são profundos, porém nem todos possuem o hábito ou o preparo para olhar a sua totalidade. Júlio Pattuzzo 
